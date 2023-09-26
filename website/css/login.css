@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'stc';
+    src: url(STC-Regular.ttf);
+}
+*{
+    font-family: 'stc';
+    src: url(STC-Regular.ttf);
+    color: rgb(105, 103, 102);
+}
